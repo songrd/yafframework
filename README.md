@@ -42,6 +42,7 @@ application/library/comm/base/Script.php            脚本基类
 
 #### **三、php配置文件说明**
 1.按照yaf扩展 yaf-2.3.5 版本
+
 2.php.ini
 ```
 ; 加载yaf扩展
